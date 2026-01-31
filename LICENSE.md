@@ -26,7 +26,7 @@ Copyright (c) 2025
 
 ## 表示例
 データ提供: **楠城 一嘉 - 静岡県立大学 グローバル地域センター 自然災害研究部門**  
-出典: <https://github.com/example/landslide-map>  
+出典: <https://github.com/KazuNanjo/shizuoka-landslide-kmz/>  
 ライセンス: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## 商用利用について

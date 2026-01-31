@@ -26,7 +26,7 @@ This work (KMZ/KML files and related data) is licensed under the **Creative Comm
 
 ## Attribution Example
 Data provider: **Kazuyoshi Nanjo — Natural Disaster Research Section, Global Center for Asian and Regional Research, University of Shizuoka**  
-Source: <https://github.com/example/landslide-map>  
+Source: <https://github.com/KazuNanjo/shizuoka-landslide-kmz/>  
 License: CC BY-NC 4.0 (https://creativecommons.org/licenses/by-nc/4.0/)
 
 ## Commercial Use

@@ -1,4 +1,4 @@
-- # 地滑りマップ（KMZ/KML） — Google Earth Pro 用
+# 地滑りマップ（KMZ/KML） — Google Earth Pro 用
 
   このリポジトリは、デスクトップ版 Google Earth Pro で閲覧する地滑り関連の地理空間データ（KMZ/KML）を公開します。  
   **対応OS:** Windows / macOS / Linux（モバイル版 Google Earth は対象外）
@@ -30,7 +30,7 @@
 
   ## クレジット表記（例）
   データ提供: **楠城 一嘉 - 静岡県立大学 グローバル地域センター 自然災害研究部門**  
-  出典: <https://github.com/example/landslide-map>  
+  出典: <https://github.com/KazuNanjo/shizuoka-landslide-kmz/>  
   ライセンス: **CC BY-NC 4.0**（<https://creativecommons.org/licenses/by-nc/4.0/>）
 
   ## 商用利用について
